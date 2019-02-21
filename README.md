@@ -1,6 +1,6 @@
 # Game-Of-Alphabets
 An Alexa skill
-![image][game_of_alphabets.png]
+![image](game_of_alphabets.png)
 
 
 ### Description
