@@ -1,6 +1,6 @@
 # Game-Of-Alphabets
 An Alexa skill
-[Game Of Alphabets](https://www.amazon.in/Mohit-arora-Game-of-Alphabets/dp/B07J9Y4P8F/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1550774928&sr=1-1&keywords=game+of+alphabets>)
+![image][game_of_alphabets.png]
 
 
 ### Description
@@ -29,3 +29,5 @@ Player 2: z (Player 2 looses)
 - English (GB)
 - English (IN)
 - English (US)
+
+>[Game Of Alphabets](https://www.amazon.in/Mohit-arora-Game-of-Alphabets/dp/B07J9Y4P8F/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1550774928&sr=1-1&keywords=game+of+alphabets>)
