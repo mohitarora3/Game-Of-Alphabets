@@ -20,6 +20,7 @@ Player 1: y
 Player 2: z (Player 2 looses)
 ```
 ## How to start?
+1. Enable the skill. [link](https://www.amazon.com/Mohit-arora-Game-of-Alphabets/dp/B07J9Y4P8F/ref=sr_1_1?ie=UTF8&qid=1550778796&sr=8-1&keywords=game+of+alphabets+alexa+skill)
 1. Download [Amazon Alexa App](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_IN)
 2. Login with Amazon account.
 3. Tap to middle icon and say `Alexa, open Game of Alphabets`
@@ -31,4 +32,4 @@ Player 2: z (Player 2 looses)
 - English (IN)
 - English (US)
 
-> Enable it now. [Game Of Alphabets](https://www.amazon.com/Mohit-arora-Game-of-Alphabets/dp/B07J9Y4P8F/ref=sr_1_1?ie=UTF8&qid=1550778796&sr=8-1&keywords=game+of+alphabets+alexa+skill)
+> Enable it [now](https://www.amazon.com/Mohit-arora-Game-of-Alphabets/dp/B07J9Y4P8F/ref=sr_1_1?ie=UTF8&qid=1550778796&sr=8-1&keywords=game+of+alphabets+alexa+skill)
