@@ -2,7 +2,7 @@
 ![image](game_of_alphabets.png)
 
 
-### Description
+## Description
 > Game of Alphabets is a short entertaining alphabet game for all age groups. 
 This game has two players: user and alexa. 
 Player 1 starts with a alphabet from a, b or c. Player 2 then can say any alphabets from the 3 alphabets following the alphabet said by player 1. The game continues like this and the one who says z loses. for example: if alexa forces user to speak Z, alexa will be the winner.
@@ -19,8 +19,12 @@ Player 2: h (valid alphabets are f, g and h)
 Player 1: y
 Player 2: z (Player 2 looses)
 ```
+## How to start?
+1. Download [Amazon Alexa App](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_IN)
+2. Login with Amazon account
+3. Tap to middle icon and say "Alexa, open Game of Alphabets"
 
-### Available in-
+## Available in-
 - English (AU)
 - English (CA)
 - English (GB)
